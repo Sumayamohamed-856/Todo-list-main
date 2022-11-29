@@ -1,0 +1,11 @@
+$purple: #5d0cff;
+$teal: #26bfd4;
+$black: #161a2b;
+$blue: #149fff;
+
+@mixin loginsignup {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
