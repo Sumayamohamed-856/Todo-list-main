@@ -56,7 +56,7 @@ function Login() {
 
           <div className='create'>
            <div className="text-dark">OR</div>
-           <a href='http://localhost:3000/signup'>
+           <a href='/signup'>
              Create an account
            </a>
           </div>
